@@ -1,13 +1,16 @@
 body{
-    background:silver;
+    background:whitesmoke;
+    
 }
 h2{
     color:darkgreen;
 }
 h3{
+    
     color:seagreen;
 }
 a{
+    font-size:18px;
     color:darkred;
 }
 .products{
@@ -15,3 +18,14 @@ a{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
+.tagline{
+    font-family: cursive;
+    font-size:18px;
+}
+.about{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+// css for 'about us' page
