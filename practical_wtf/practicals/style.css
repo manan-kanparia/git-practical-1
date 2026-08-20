@@ -1,0 +1,17 @@
+body{
+    background:silver;
+}
+h2{
+    color:darkgreen;
+}
+h3{
+    color:seagreen;
+}
+a{
+    color:darkred;
+}
+.products{
+    font-style: italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
